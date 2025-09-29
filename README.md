@@ -14,7 +14,7 @@ This is an **Interactive Landing Page** project built with **HTML, CSS, and Java
 ---
 
 ## 🔗 Live Demo | نسخهٔ آنلاین
-[مشاهده سایت به صورت زنده](https://YOUR-LIVE-LINK.github.io/REPOSITORY-NAME)  
+[مشاهده سایت به صورت زنده](https://saqar-gourani.github.io/Split-Landing-Page/ )  
 (لینک بالا را با لینک GitHub Pages خودت جایگزین کن)
 
 ---
